@@ -22,23 +22,23 @@ This project allows users to browse service categories, explore featured service
 ## 📸 Here are few Screenshots
 
 ### Home Screen  
-![Home](./assets/home.png)
+![Home](assets/images/home.png)
 
 ### Search Screen --- 
-![Search](./assets/Search.png)
-![Search Criteria](./assets/SC.png)
+![Search](assets/images/Search.png)
+![Search Criteria](assets/images/SC.png)
 
 ### Category Selection  Screen  
-![Explore](./assets/CSScreen.png)
+![Explore](assets/images/CSScreen.png)
 
 ### Filters  ---
-![Filters](./assets/filters.png)
+![Filters](assets/images/filters.png)
 
 ### Bookings ---  
-![Bookings](./assets/Myookings.png)
+![Bookings](assets/images/Myookings.png)
 
 ### Chat Screen  ---
-![Chat](./assets/Chat.png)
+![Chat](assets/images/Chat.png)
 
 ---
 
