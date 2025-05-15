@@ -19,7 +19,7 @@ const services: Service[] = [
     price: 120,
     rating: 4.8,
     numberOfRatings: 156,
-    image: 'https://images.pexels.com/photos/4239091/pexels-photo-4239091.jpeg',
+    image: './HDC1.jpeg',
     providerId: '1'
   },
   {
@@ -30,7 +30,7 @@ const services: Service[] = [
     price: 85,
     rating: 4.6,
     numberOfRatings: 89,
-    image: 'https://images.pexels.com/photos/6000157/pexels-photo-6000157.jpeg',
+    image: './BPR1.jpeg',
     providerId: '2'
   },
   {
@@ -41,7 +41,7 @@ const services: Service[] = [
     price: 1200,
     rating: 4.9,
     numberOfRatings: 67,
-    image: 'https://images.pexels.com/photos/8005397/pexels-photo-8005397.jpeg',
+    image: './EPU2.jpeg',
     providerId: '3'
   },
   {
@@ -52,7 +52,7 @@ const services: Service[] = [
     price: 75,
     rating: 4.7,
     numberOfRatings: 212,
-    image: 'https://images.pexels.com/photos/3992874/pexels-photo-3992874.jpeg',
+    image: './PHS1.jpeg',
     providerId: '4'
   },
   {
@@ -63,7 +63,7 @@ const services: Service[] = [
     price: 60,
     rating: 4.5,
     numberOfRatings: 178,
-    image: 'https://images.pexels.com/photos/7218505/pexels-photo-7218505.jpeg',
+    image: './FA4.jpeg',
     providerId: '5'
   },
   {
@@ -74,7 +74,7 @@ const services: Service[] = [
     price: 350,
     rating: 4.8,
     numberOfRatings: 94,
-    image: 'https://images.pexels.com/photos/8092462/pexels-photo-8092462.jpeg',
+    image: './IWP8.jpeg',
     providerId: '6'
   },
   {
@@ -85,7 +85,7 @@ const services: Service[] = [
     price: 450,
     rating: 4.6,
     numberOfRatings: 132,
-    image: 'https://images.pexels.com/photos/4246091/pexels-photo-4246091.jpeg',
+    image: './LMS4.jpeg',
     providerId: '7'
   },
   {
@@ -96,7 +96,7 @@ const services: Service[] = [
     price: 55,
     rating: 4.7,
     numberOfRatings: 203,
-    image: 'https://images.pexels.com/photos/589/garden-gardener-grass-landscape.jpg',
+    image: './LMT5.jpg',
     providerId: '8'
   },
 ];

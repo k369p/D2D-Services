@@ -22,9 +22,9 @@ export default function BookingConfirmationScreen() {
   const confirmation = {
     bookingId: 'BK-123456',
     serviceTitle: 'House Deep Cleaning',
-    serviceImage: 'https://images.pexels.com/photos/4239091/pexels-photo-4239091.jpeg',
+    serviceImage: '',
     providerName: 'Emma Johnson',
-    providerAvatar: 'https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg',
+    providerAvatar: '',
     date: 'May 20, 2025',
     time: '10:00 AM',
     address: '123 Main St, New York, NY 10001',

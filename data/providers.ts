@@ -14,7 +14,7 @@ const providers: Provider[] = [
   {
     id: '1',
     name: 'Emma Johnson',
-    avatar: 'https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg',
+    avatar: '',
     profession: 'Professional Cleaner',
     description: 'Experienced cleaner with over 5 years in residential and commercial cleaning. Specializing in deep cleaning and organization.',
     rating: 4.8,
@@ -25,7 +25,7 @@ const providers: Provider[] = [
   {
     id: '2',
     name: 'Michael Rodriguez',
-    avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg',
+    avatar: './assets/images/plumbing.png',
     profession: 'Master Plumber',
     description: 'Licensed plumber with 10+ years experience handling all types of plumbing issues. Specializing in bathroom and kitchen repairs.',
     rating: 4.6,
@@ -36,7 +36,7 @@ const providers: Provider[] = [
   {
     id: '3',
     name: 'David Chen',
-    avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
+    avatar: '',
     profession: 'Licensed Electrician',
     description: 'Certified electrician with expertise in residential and commercial electrical systems. Focusing on safety and quality workmanship.',
     rating: 4.9,
@@ -47,7 +47,7 @@ const providers: Provider[] = [
   {
     id: '4',
     name: 'Sophia Martinez',
-    avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg',
+    avatar: '',
     profession: 'Hair Stylist',
     description: 'Professional hair stylist with 7 years of salon experience. Specializing in cuts, color, and styling for all hair types.',
     rating: 4.7,
@@ -58,7 +58,7 @@ const providers: Provider[] = [
   {
     id: '5',
     name: 'James Wilson',
-    avatar: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg',
+    avatar: '',
     profession: 'Furniture Specialist',
     description: 'Skilled furniture assembly and repair specialist. Experienced with all major furniture brands and styles.',
     rating: 4.5,
@@ -69,7 +69,7 @@ const providers: Provider[] = [
   {
     id: '6',
     name: 'Olivia Brown',
-    avatar: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg',
+    avatar: '',
     profession: 'Professional Painter',
     description: 'Experienced painter specializing in interior and exterior painting. Providing color consultation and premium finishes.',
     rating: 4.8,
@@ -80,7 +80,7 @@ const providers: Provider[] = [
   {
     id: '7',
     name: 'Daniel Kim',
-    avatar: 'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg',
+    avatar: '',
     profession: 'Moving Specialist',
     description: 'Professional mover with a team specializing in local and long-distance moves. Focused on safe and efficient relocation services.',
     rating: 4.6,
@@ -91,7 +91,7 @@ const providers: Provider[] = [
   {
     id: '8',
     name: 'Emily Taylor',
-    avatar: 'https://images.pexels.com/photos/1382731/pexels-photo-1382731.jpeg',
+    avatar: '',
     profession: 'Landscape Gardener',
     description: 'Professional gardener with expertise in lawn care, planting, and garden design. Creating beautiful outdoor spaces for over 8 years.',
     rating: 4.7,
