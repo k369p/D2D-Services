@@ -1,6 +1,6 @@
 # D2D 🚚
 
-A mobile app built with Expo and React Native that connects users with local service providers for various on-demand home services such as cleaning, plumbing, electrical work, moving, and more.
+An app built with Expo and React Native that connects users with local service providers for various on-demand home services such as cleaning, plumbing, electrical work, moving, and more.
 
 ## 📱 Overview
 
@@ -44,7 +44,6 @@ This project allows users to browse service categories, explore featured service
 
 ## 🛠️ Tech Stack
 
-- Expo SDK 52  
 - React Native  
 - React Navigation  
 - Expo Router  
@@ -60,6 +59,9 @@ This project allows users to browse service categories, explore featured service
 - Node.js (v18 or later recommended)  
 - Expo CLI installed globally (`npm install -g expo-cli`)  
 - Yarn or npm for package management
+
+
+### 
 
 ### Installation
 
