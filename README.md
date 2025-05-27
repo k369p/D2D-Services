@@ -35,7 +35,7 @@ This project allows users to browse service categories, explore featured service
 ![Filters](assets/images/filters.png)
 
 ### Bookings ---  
-![Bookings](assets/images/Myookings.png)
+![Bookings](assets/images/Mybookings.png)
 
 ### Chat Screen  ---
 ![Chat](assets/images/Chat.png)
